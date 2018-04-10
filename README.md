@@ -10,6 +10,7 @@ Boilerplate to start a static web site using Jekyll.
 - Global colors definition file.
 - Global dimensions definition file.
 - Reset.scss file to reset basic html tags properties (margin, padding, border, font-size, etc).
+- Generic, customizable contact form.
 
 # Run
 
